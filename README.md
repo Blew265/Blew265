@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mervin</h1>
 <h3 align="center">A passionate software engineer from Malawi</h3>
 
-<p align="left"> <a href="https://twitter.com/doppler" target="blank"><img src="https://img.shields.io/twitter/follow/doppler?logo=twitter&style=for-the-badge" alt="doppler" /></a> </p>
+<p align="left"> <a href="https://twitter.com/melvinchimwaza" target="blank"><img src="https://img.shields.io/twitter/follow/doppler?logo=twitter&style=for-the-badge" alt="doppler" /></a> </p>
 
 - 🔭 I’m currently working on **Generative AI project**
 
