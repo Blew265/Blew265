@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Generative AI, FastAPI, Django, React, Next.js and Python Scripting**
 
-- 💬 Ask me about **Django, FastAPI,**
+- 💬 Am effecient with **Python** mostly
 
 - 📫 How to reach me **chimwazamelvin@gmail.com**
 
